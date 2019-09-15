@@ -1,5 +1,7 @@
 # MrBadger
 
+[![CircleCI](https://circleci.com/gh/tfwright/mr_badger.svg?style=svg)](https://circleci.com/gh/tfwright/mr_badger)
+
 **Achievement tracking for Elixir apps**
 
 ## Installation
